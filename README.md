@@ -1,6 +1,6 @@
 # Synology Cleanup Script
 
-Automated shell script for **Synology NAS (DSM 7.2)** to delete files older than x days.
+Automated shell script for **Synology NAS (DSM 7)** to delete files older than x days.
 
 ## ✨ Features
 
@@ -207,4 +207,4 @@ Future enhancements:
 ---
 
 **Last Updated:** May 2025
-**Tested On:** Synology DSM 7.2
+**Tested On:** DSM 7.2.2-72806 Update 5
