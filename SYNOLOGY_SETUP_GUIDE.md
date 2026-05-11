@@ -1,7 +1,7 @@
-# Synology NAS Cleanup Script Setup Guide (DSM 7.2)
+# Synology NAS Cleanup Script Setup Guide (DSM 7)
 
 ## Overview
-This guide helps you set up the cleanup script to automatically delete files older than 90 days from a specified folder on your Synology NAS using the Task Scheduler.
+This guide helps you set up the cleanup script to automatically delete files older than x days from a specified folder on your Synology NAS using the Task Scheduler.
 
 ---
 
@@ -53,7 +53,7 @@ Once you're confident, run with dry_run=false to actually delete files:
 
 ---
 
-## Step 3: Create Task Scheduler Task in DSM 7.2
+## Step 3: Create Task Scheduler Task in DSM 7
 
 ### A. Open Task Scheduler
 1. Go to **Control Panel** → **Task Scheduler**
